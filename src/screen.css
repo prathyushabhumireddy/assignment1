@@ -1,0 +1,14 @@
+/* Our CSS file. */
+.one,.two{
+    width:100%;
+    display:inline-flex;
+}
+.block1,.block2,.block3,.block4{
+    width:50%
+}
+.block1{
+    vertical-align:top;
+}
+.block4{
+    vertical-align:middle;
+}
